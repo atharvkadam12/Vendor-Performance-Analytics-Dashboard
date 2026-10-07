@@ -125,5 +125,5 @@ jupyter notebook "Exploratory Data Analysis.ipynb"
 
 **Jay Kumbhar**
 📧 jaykumbhar518@gmail.com
-💼 [LinkedIn](https://linkedin.com/in/jaykumbhar5121)
-💻 [GitHub](https://github.com/jay51211)
+💼 [LinkedIn](https://www.linkedin.com/in/atharv-kadam-4415023a4/?isSelfProfile=true)
+💻 [GitHub](https://github.com/atharvkadam12)
