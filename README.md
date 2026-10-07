@@ -123,7 +123,7 @@ jupyter notebook "Exploratory Data Analysis.ipynb"
 
 ## 👤 Author
 
-**Jay Kumbhar**
-📧 jaykumbhar518@gmail.com
+**Atharv Kadam**
+📧 atharvkadamprofessional@gmail.com
 💼 [LinkedIn](https://www.linkedin.com/in/atharv-kadam-4415023a4/?isSelfProfile=true)
 💻 [GitHub](https://github.com/atharvkadam12)
